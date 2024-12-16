@@ -58,10 +58,6 @@ public class TestCaseSix {
 		
 		
 		
-		
-		
-		
-		
 		//driver.close();
 
 	}
