@@ -27,7 +27,7 @@ public class TestCase10 {
 	       select.selectByValue("python");
 	       select.selectByVisibleText("SQL");
 	       
-	       // checkbox
+	       // check-box
 	       
 	       // radio button
 
