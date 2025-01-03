@@ -44,7 +44,6 @@ public class TestCase_16_Actions {
 //			
 //		
 		
-		
 		// Test case 2
 //		
 		WebElement hoverE = driver.findElement(By.cssSelector("#div-hover > div.dropdown.hover > button"));
